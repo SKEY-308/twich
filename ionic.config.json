@@ -1,0 +1,7 @@
+{
+  "name": "twich",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
